@@ -11,5 +11,5 @@
 ## Recently Played 🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313qwnxw72i3w5vz4xsr26aulyiu&count=1)
 
-![Snake animation](https://github.com/MarcelineDev/MarcelineDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcelineDev/MarcyAbadeer/blob/output/github-contribution-grid-snake.svg)
 
